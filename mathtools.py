@@ -20,6 +20,7 @@ def factorial(n):
     else:
         return n * factorial(n-1)
 
+
 def fib(n):
     ''' Calculates the n value of the fibonacci sequence'''
     if n == 0:
@@ -38,5 +39,5 @@ def arithmetic(a, difference, n):
     #Calculates its sum
     return sum(sequence)
 
-def idontknow();
+def idontknow():
     return
